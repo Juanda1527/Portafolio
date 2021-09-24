@@ -162,8 +162,9 @@ span {
     background-color: #101e4b;
     margin: 1em;
 }
-.card:hover{
-    width: 500px;}
+.card hover{
+    width: 500px;
+}
 
 .card__img {
     width: 100%;
